@@ -14,7 +14,7 @@ public class HomeWorkApp {
 
 
     static void printThreeWords() {
-        System.out.println("Orange");
+        System.out.println("Orange ");
         System.out.println("Banana");
         System.out.println("Apple");
     }
@@ -54,7 +54,7 @@ else
         if (a>=b){
             System.out.println("a >= b");
         }
-        else System.out.println("a < bb");
+        else System.out.println("a < b");
 
     }
 }
